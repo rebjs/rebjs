@@ -1,0 +1,13 @@
+{
+  "name": "rebjs",
+  "description": "React Enterprise Blocks",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": "https://github.com/rebjs/rebjs",
+  "author": "waynebloss@gmail.com",
+  "main": "lib/index.js",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-react-app": "^2.1.0"
+  }
+}

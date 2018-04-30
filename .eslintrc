@@ -1,0 +1,25 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "arrow-parens": "off",
+    "camelcase": "off",
+    "function-paren-newline": "off",
+    "global-require": "off",
+    "max-len": "off",
+    "newline-per-chained-call": "off",
+    "no-console": "off",
+    "no-continue": "off",
+    "no-param-reassign": "off",
+    "no-plusplus": "off",
+    "no-trailing-spaces": "off",
+    "no-underscore-dangle": "off",
+    "no-use-before-define": "off",
+    "no-var": "off",
+    "padded-blocks": "off",
+    "prefer-arrow-callback": "off",
+    "prefer-template": "off",
+    "prefer-destructuring": "off",
+    "radix": "off",
+    "vars-on-top": "off"
+  }
+}
